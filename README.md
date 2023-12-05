@@ -1,3 +1,5 @@
+![logo](https://github.com/veerPratap1/veerPratap1/blob/main/InShot_20231205_185755959.jpg)
+
 <h1 align="center">Hi 👋, I'm Vijay Pratap</h1>
 <h3 align="center">
   I'm a passionate MERN stack developer with a knack for building scalable and
