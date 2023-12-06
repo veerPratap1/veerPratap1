@@ -1,4 +1,4 @@
-![logo](https://github.com/veerPratap1/veerPratap1/blob/main/InShot_20231205_185755959.jpg)
+![InShot_20231205_185755959](https://github.com/veerPratap1/veerPratap1/assets/152856878/a1a19c4d-8ced-41b5-8ce0-cd7db53412b6)
 
 <h1 align="center">Hi 👋, I'm Vijay Pratap</h1>
 <h3 align="center">
